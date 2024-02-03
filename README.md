@@ -10,7 +10,7 @@ This project is a full-stack web application that allows users to create, view, 
 - **Component Architecture**: All class components demonstrated in the tutorial have been converted to functional components. This change was made because functional components are easier to understand and use, especially with hooks.
 - **Notifications**: Instead of using default alerts for notifications, this project utilizes the `react-toastify` library. This enhancement makes notifications more aesthetically pleasing and user-friendly.
 - **Future Plans**: There are plans to add error handling with try-catch blocks, implement additional styling, and possibly introduce more features to enhance the application's functionality.
-- **Docker Integration**: As part of the learning process, Docker was used to containerize the application. The goal is to deploy the application to a hosting service for practical experience in software deployment.
+- **Docker Integration**: As part of the learning process, Docker was used to containerize the application. The goal is to deploy the application to a hosting service for practical experience in software deployment. ***UPDATE*** pushed the Docker image to google Kubernetes and is live on this url "http://35.224.206.239/"
 
 ## Running the Project
 
