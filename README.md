@@ -1,6 +1,6 @@
 # Todo Application
 
-This project is a full-stack web application that allows users to create, view, and delete tasks. It was initially based on a tutorial by Art of Engineer, which can be found [here](https://www.youtube.com/watch?v=O5hKoBV3vaU). The original tutorial was followed as a foundation, but significant modifications have been made to tailor the project to personal learning objectives and preferences.
+This project is a full-stack web application that allows users to create, view, and delete tasks. It was initially based on a tutorial by Art of Engineer, which can be found [here](https://www.youtube.com/watch?v=O5hKoBV3vaU). The original tutorial was followed as a foundation, but slight modifications have been made to tailor the project to personal learning objectives and preferences.
 
 ## Modifications from Original Tutorial
 
